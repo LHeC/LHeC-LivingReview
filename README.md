@@ -51,18 +51,18 @@ The purpose of this project is to collect all references that are relevant for t
 
 
 *   Accelerator and PERLE
-        * [PERLE - Lattice Design and Beam Dynamics Studies](https://inspirehep.net/literature/1690024) [[DOI](PERLE - Lattice Design and Beam Dynamics Studies)]
-        * [PERLE. Powerful energy recovery linac for experiments. Conceptual design report](https://arxiv.org/abs/1705.08783) [[DOI](https://doi.org/10.1088/1361-6471/aaa171)]
-        * [Development of an ERL Based TeV Energy ep and eA Collider at CERN](http://cds.cern.ch/record/2153752) [[InspireHEP](https://inspirehep.net/literature/1436542)]
-        * [Plans for an ERL Test Facility at CERN](http://cds.cern.ch/record/2025957)[[InspireHEP](https://inspirehep.net/literature/1363550)]
-        * [High-Energy Inelastic e p Scattering at 6-Degrees and 10-Degrees](https://inspirehep.net/literature/54874) [[DOI](https://doi.org/10.1103/PhysRevLett.23.930)]
-        * [Accelerator Challenges of the LHeC Project](https://inspirehep.net/literature/1937698) [[DOI](https://doi.org/10.18429/JACoW-IPAC2021-WEPAB001)]
-        * [Design Study of an ERL Test Facility at CERN](https://inspirehep.net/literature/1314165) [[DOI](https://doi.org/10.18429/JACoW-IPAC2014-TUOBA02)]
-        * [Civil Engineering Feasibility Studies for Future Ring Colliders at CERN](https://inspirehep.net/literature/1336982)
-        * [Strawman Optics Design for the CERN LHeC ERL Test Facility](https://inspirehep.net/literature/1337159)
-        * [An energy recovery electron accelerator for DIS at the LHC](https://inspirehep.net/literature/1290849) [[DOI](https://doi.org/10.22323/1.180.0555)]
-        * [Interaction Region Optics for the Non-Interacting LHC Proton Beam at the LHeC](https://accelconf.web.cern.ch/IPAC2012/papers/TUPPC038.PDF) [[InspireHEP](https://inspirehep.net/literature/1125123)]
-        * [Update on LHeC Ring-Ring Optics](https://accelconf.web.cern.ch/IPAC2012/papers/TUPPC037.PDF) [[InspireHEP](https://inspirehep.net/literature/1125124)]
+        *  [PERLE - Lattice Design and Beam Dynamics Studies](https://inspirehep.net/literature/1690024) [[DOI](PERLE - Lattice Design and Beam Dynamics Studies)]
+        *  [PERLE. Powerful energy recovery linac for experiments. Conceptual design report](https://arxiv.org/abs/1705.08783) [[DOI](https://doi.org/10.1088/1361-6471/aaa171)]
+        *  [Development of an ERL Based TeV Energy ep and eA Collider at CERN](http://cds.cern.ch/record/2153752) [[InspireHEP](https://inspirehep.net/literature/1436542)]
+        *  [Plans for an ERL Test Facility at CERN](http://cds.cern.ch/record/2025957)[[InspireHEP](https://inspirehep.net/literature/1363550)]
+        *  [High-Energy Inelastic e p Scattering at 6-Degrees and 10-Degrees](https://inspirehep.net/literature/54874) [[DOI](https://doi.org/10.1103/PhysRevLett.23.930)]
+        *  [Accelerator Challenges of the LHeC Project](https://inspirehep.net/literature/1937698) [[DOI](https://doi.org/10.18429/JACoW-IPAC2021-WEPAB001)]
+        *  [Design Study of an ERL Test Facility at CERN](https://inspirehep.net/literature/1314165) [[DOI](https://doi.org/10.18429/JACoW-IPAC2014-TUOBA02)]
+        *  [Civil Engineering Feasibility Studies for Future Ring Colliders at CERN](https://inspirehep.net/literature/1336982)
+        *  [Strawman Optics Design for the CERN LHeC ERL Test Facility](https://inspirehep.net/literature/1337159)
+        *  [An energy recovery electron accelerator for DIS at the LHC](https://inspirehep.net/literature/1290849) [[DOI](https://doi.org/10.22323/1.180.0555)]
+        *  [Interaction Region Optics for the Non-Interacting LHC Proton Beam at the LHeC](https://accelconf.web.cern.ch/IPAC2012/papers/TUPPC038.PDF) [[InspireHEP](https://inspirehep.net/literature/1125123)]
+        *  [Update on LHeC Ring-Ring Optics](https://accelconf.web.cern.ch/IPAC2012/papers/TUPPC037.PDF) [[InspireHEP](https://inspirehep.net/literature/1125124)]
 
 
 *  Related experiments
