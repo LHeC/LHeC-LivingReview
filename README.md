@@ -39,6 +39,7 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
     * [Electron-Hadron Colliders: EIC, LHeC and FCC-eh](https://inspirehep.net/literature/2077424)[[DOI](https://doi.org/10.3389/fphy.2022.886473)]
     * [Energy Frontier DIS at CERN: the LHeC and the FCC-eh](https://inspirehep.net/literature/1860125) [[DOI](https://doi.org/10.22323/1.390.0687)]
     * [Beyond Standard Model Physics at the LHeC and the FCC-eh](https://inspirehep.net/literature/1859704) [[DOI](https://doi.org/10.22323/1.390.0227)]
+    * [A Brief review of future lepton hadron and photon hadron colliders](https://arxiv.org/abs/hep-ex/0106082) [[InspireHEP](https://arxiv.org/abs/hep-ex/0106082)]
 
 
 *  Physics
@@ -79,7 +80,7 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
         * [Coherent and incoherent deeply virtual Compton scattering in electron–ion collisions at the EIC and LHeC](https://inspirehep.net/literature/2028074) [[DOI](https://doi.org/10.1140/epja/s10050-022-00664-3)]
         * [Study of diffractive gluon jet production in electron‐ion collisions](https://inspirehep.net/literature/1853913) [[DOI](https://doi.org/10.1002/asna.202113948)]
         * [Exclusive dilepton production via timelike Compton scattering in heavy ion collisions](https://arxiv.org/abs/2101.08338) [[DOI](https://doi.org/10.1103/PhysRevD.103.054009)]
-        * []() [[DOI]()]
+        * [The Nucleon Energy Correlators](https://arxiv.org/abs/2209.02080) 
         * []() [[DOI]()]
         * []() [[DOI]()]
     
@@ -88,13 +89,15 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
         * [Exclusive Z0 production in ep and eA collisions at high energies](https://arxiv.org/abs/2204.10350) [[DOI](https://doi.org/10.1103/PhysRevD.106.014002)]
         * [Sensitivity analysis for the anomalous W+W−γW^+W^-\gamma W+W−γ couplings at the LHeC and the FCC-he](https://arxiv.org/abs/2104.00477) [[DOI](https://doi.org/10.1140/epjp/s13360-021-02224-y)]
         * [New electroweak challenges and opportunities at the LHeC](https://arxiv.org/abs/2109.08001) [[DOI](https://doi.org/10.22323/1.398.0486)]
-        * []() [[DOI]()]
+        * [Hector 1.00: A Program for the calculation of QED, QCD and electroweak corrections to e p and lepton+- N deep inelastic neutral and charged current scattering](https://arxiv.org/abs/hep-ph/9511434) [[DOI](https://doi.org/10.1016/0010-4655(96)00005-7)]
+        * [The anomalous Zbb¯ couplings at the HERA and EIC](https://arxiv.org/abs/2107.02134) [[DOI](https://doi.org/10.1016/j.physletb.2021.136697)]
 
     *  Top-quark Physics
         * [Differential distributions for single top quark production at the LHeC](https://arxiv.org/abs/2103.15846) [[DOI](https://doi.org/10.1103/PhysRevD.104.053005)]
         * [Collinear approach for top quark production at ep colliders](https://arxiv.org/abs/2109.09583)
         * [Top quark effective couplings from top-pair tagged photoproduction in pe- collisions](https://arxiv.org/abs/2111.04723) [[DOI](https://doi.org/10.1103/PhysRevD.105.115002)]
         * [Top quark effective couplings from top-pair tagged photoproduction in pe- collisions](https://arxiv.org/abs/2111.04723) [[DOI](https://doi.org/10.1103/PhysRevD.105.115002)]
+        * [Single top production at future epe pep colliders](https://arxiv.org/abs/hep-ph/9709435) [[DOI](https://doi.org/10.1103/PhysRevD.57.3040)]
 
     *  Beyond the Standard Model (BSM)
         * [Search for Leptophilic Dark Matter at the LHeC](https://arxiv.org/abs/2207.01656) 
@@ -109,6 +112,8 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
         * []() [[DOI]()]
         * []() [[DOI]()]
         * []() [[DOI]()]
+        * [Charged Higgs scalar production in single top mode (and other) at future ep colliders in the minimal supersymmetric standard model](https://arxiv.org/abs/hep-ph/9709458) [[DOI](https://doi.org/10.1103/PhysRevD.57.5773)]
+        * [Associated slepton - neutralino / chargino production at LEP x CERN LHC](https://arxiv.org/abs/hep-ph/9501377) [[DOI](https://doi.org/10.1103/PhysRevD.52.78)]
 
 *   Experimentation
 
@@ -143,11 +148,12 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
      
 *  Related Experiments
     *  EIC
-        * [Electron Ion Collider: The Next QCD Frontier - Understanding the glue that binds us all](https://arxiv.org/abs/1212.1701) [[DOI](https://doi.org/10.1140/epja/i2016-16268-9)]
-        * [The Electron-Ion Collider: Assessing the Energy Dependence of Key Measurements](https://arxiv.org/abs/1708.01527) [[DOI](https://doi.org/10.1088/1361-6633/aaf216)]
+       * [Science Requirements and Detector Concepts for the Electron-Ion Collider: EIC Yellow Report](https://arxiv.org/abs/2103.05419) [[DOI](https://doi.org/10.1016/j.nuclphysa.2022.122447)]
+       * [Electron Ion Collider: The Next QCD Frontier - Understanding the glue that binds us all](https://arxiv.org/abs/1212.1701) [[DOI](https://doi.org/10.1140/epja/i2016-16268-9)]
+       * [The Electron-Ion Collider: Assessing the Energy Dependence of Key Measurements](https://arxiv.org/abs/1708.01527) [[DOI](https://doi.org/10.1088/1361-6633/aaf216)]
        * [An Assessment of U.S.-Based Electron-Ion Collider Science](https://nap.nationalacademies.org/catalog/25171/an-assessment-of-us-based-electron-ion-collider-science) [[DOI](https://doi.org/10.17226/25171)]
        * Electron Ion Collider Conceptual Design Report 2021 [[DOI](https://doi.org/10.2172/1765663)]
-       * [Science Requirements and Detector Concepts for the Electron-Ion Collider: EIC Yellow Report](https://arxiv.org/abs/2103.05419) [[DOI](https://doi.org/10.1016/j.nuclphysa.2022.122447)]
+
        
     *  HERA
     
