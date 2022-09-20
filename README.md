@@ -24,7 +24,7 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
 
 
 *  Important Reports and Reviews on Related Subjects
-    * [The Large Hadron Electron Collider](The Large Hadron Electron Collider) [[DOI](The Large Hadron Electron Collider)]
+    * [The Large Hadron Electron Collider](https://arxiv.org/abs/1305.2090) [[DOI](https://doi.org/10.1142/S0217732313300115)]
     * [On the Relation of the LHeC and the LHC](https://arxiv.org/abs/1211.5102) [[InspireHEP](https://inspirehep.net/literature/1203459)]
     * [A Large Hadron Electron Collider at CERN](https://arxiv.org/abs/1211.4831) [[InspireHEP](https://inspirehep.net/literature/1203309)]
     * [The Development of Energy-Recovery Linacs](https://arxiv.org/abs/2207.02095) [[InspireHEP](https://inspirehep.net/literature/2106268)]
