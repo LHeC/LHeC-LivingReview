@@ -35,24 +35,58 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
     * [The LHeC Project Development Beyond 2012](https://inspirehep.net/literature/1124896)
     * [The Large Hadron-Electron Collider (LHeC) at the LHC](https://inspirehep.net/files/7862ed6a738e4b8d3e069d86242a57f7) [[InspireHEP](https://inspirehep.net/literature/1379316)]
     * [Deep inelastic electron-nucleon scattering at the LHC](https://arxiv.org/abs/hep-ex/0603016) [[DOI](https://doi.org/10.1088/1748-0221/1/10/P10001)]
-
+    * [Selected topics in diffraction with protons and nuclei: past, present, and future](https://arxiv.org/abs/2203.12289) [[InspireHEP](https://inspirehep.net/literature/2057405)]
+    * [Electron-Hadron Colliders: EIC, LHeC and FCC-eh](https://inspirehep.net/literature/2077424)[[DOI](https://doi.org/10.3389/fphy.2022.886473)]
 
 *  Physics
     *  Hard QCD, Hadronic Final State, Heavy-quarks (c,s,b) and Inclusive DIS
+        * [DIS physics at the EIC and LHeC and connections to the future LHC and ν\nuνA programs](https://arxiv.org/abs/2202.08286) [[DOI](https://doi.org/10.21468/SciPostPhysProc.8.155)]
+        * [Snowmass 2021 whitepaper: Proton structure at the precision frontier](https://arxiv.org/abs/2203.13923) [[InspreHEP](https://inspirehep.net/literature/2059340)]
+        * [Geometrical scaling of heavy-quark contributions in the low x region](https://arxiv.org/abs/2204.07981) [[InspireHEP](https://inspirehep.net/literature/2068368)]
         * []() [[DOI]()]
     
     *  Small-x, diffraction
+        * [Exclusive photoproduction of heavy quarkonia pairs](https://arxiv.org/abs/2202.03288) [[DOI](https://doi.org/10.1103/PhysRevD.105.076022)]
+        * [Signatures of gluon saturation from structure-function measurements](https://arxiv.org/abs/2203.05846) [[DOI](https://doi.org/10.1103/PhysRevD.105.114017)]
+        * [Absorptive corrections in leading neutron production](https://inspirehep.net/literature/2145689) [[DOI](https://doi.org/10.22323/1.408.0053)]
+        * [Deeply virtual Compton scattering in the tensor-pomeron approach](https://arxiv.org/abs/2208.12693) 
+        * [Running coupling effect in next-to-leading order Balitsky-Kovchegov evolution equations](https://inspirehep.net/literature/2075104) [[DOI](https://doi.org/10.1088/1674-1137/ac4ee9)]
+        * [Exclusive processes in ep collisions at the EIC and LHeC: A closer look on the predictions of saturation models](https://arxiv.org/abs/2201.10499) [[DOI](https://doi.org/10.1103/PhysRevD.105.014033)]
+        * [Deeply virtual Compton scattering at the EIC and LHeC: a comparison among saturation approaches](https://inspirehep.net/literature/2027507) [[DOI](https://doi.org/10.1140/epjc/s10052-022-10059-9)]
+        * [Coherent and incoherent deeply virtual Compton scattering in electron–ion collisions at the EIC and LHeC](https://inspirehep.net/literature/2028074) [[DOI](https://doi.org/10.1140/epja/s10050-022-00664-3)]
         * []() [[DOI]()]
 
     *  Higgs Physics
-    
+        * [Electroweak corrections to Higgs boson production at the future LHeC](https://arxiv.org/abs/2207.14515) 
+        * [Studies on the H→bbH\rightarrow bbH→bb cross section measurement at the LHeC with a full detector simulation](https://arxiv.org/abs/2201.04037)
+        * 
+       
     *  Heavy-Ion and Nuclear Physics
+        * []() [[DOI]()]
+        * []() [[DOI]()]
+        * []() [[DOI]()]
+        * []() [[DOI]()]
     
     *  Electroweak Physics
+        * [Precision electroweak measurements at the LHeC and the FCC-eh](https://arxiv.org/abs/2203.06237) [[DOI](https://doi.org/10.22323/1.398.0485)]
+        * [Exclusive Z0 production in ep and eA collisions at high energies](https://arxiv.org/abs/2204.10350) [[DOI](https://doi.org/10.1103/PhysRevD.106.014002)]
+        * []() [[DOI]()]
+        * []() [[DOI]()]
 
     *  Top-quark Physics
+        * []() [[DOI]()]
+        * []() [[DOI]()]
+        * []() [[DOI]()]
+        * []() [[DOI]()]
 
     *  Beyond the Standard Model (BSM)
+        * [Search for Leptophilic Dark Matter at the LHeC](https://arxiv.org/abs/2207.01656) 
+        * [Probing non-standard HVV(V=W,Z)HVV (V=W, Z)HVV(V=W,Z) couplings in single Higgs production at future electron-proton collider](https://arxiv.org/abs/2207.03862) 
+        * [Searching for the charged-current non-standard neutrino interactions at the e−pe^{-}pe−p colliders](https://arxiv.org/abs/2207.06573) [[DOI](https://doi.org/10.1016/j.nuclphysb.2022.115894)]
+        * [Feasibility of the observation of a heavy scalar through the fully hadronic final state at the LHeC](https://arxiv.org/abs/2208.14767)
+        * [Compton-like dark photon production in electron–nucleus collisions](https://inspirehep.net/literature/2024553) [[DOI](https://doi.org/10.1088/1361-6471/ac3dcc)]
+        * [Search for heavy Majorana neutrinos at electron-proton colliders](https://arxiv.org/abs/2201.12997) [[DOI](https://doi.org/10.1103/PhysRevD.106.015006)]
+        * []() [[DOI]()]
 
 *   Experimentation
 
@@ -61,6 +95,7 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
     *  [PERLE - Lattice Design and Beam Dynamics Studies](https://inspirehep.net/literature/1690024) [[DOI](https://doi.org/10.18429/JACoW-IPAC2018-THPMK105)]
     *  [PERLE. Powerful energy recovery linac for experiments. Conceptual design report](https://arxiv.org/abs/1705.08783) [[DOI](https://doi.org/10.1088/1361-6471/aaa171)]
     *  [Development of an ERL Based TeV Energy ep and eA Collider at CERN](http://cds.cern.ch/record/2153752) [[InspireHEP](https://inspirehep.net/literature/1436542)]
+    *  [An Energy Recovery Linac for the LHeC](https://arxiv.org/abs/2206.07678)
     *  [Plans for an ERL Test Facility at CERN](http://cds.cern.ch/record/2025957)[[InspireHEP](https://inspirehep.net/literature/1363550)]
     *  [High-Energy Inelastic e p Scattering at 6-Degrees and 10-Degrees](https://inspirehep.net/literature/54874) [[DOI](https://doi.org/10.1103/PhysRevLett.23.930)]
     *  [Accelerator Challenges of the LHeC Project](https://inspirehep.net/literature/1937698) [[DOI](https://doi.org/10.18429/JACoW-IPAC2021-WEPAB001)]
@@ -70,7 +105,10 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
     *  [An energy recovery electron accelerator for DIS at the LHC](https://inspirehep.net/literature/1290849) [[DOI](https://doi.org/10.22323/1.180.0555)]
     *  [Interaction Region Optics for the Non-Interacting LHC Proton Beam at the LHeC](https://accelconf.web.cern.ch/IPAC2012/papers/TUPPC038.PDF) [[InspireHEP](https://inspirehep.net/literature/1125123)]
     *  [Update on LHeC Ring-Ring Optics](https://accelconf.web.cern.ch/IPAC2012/papers/TUPPC037.PDF) [[InspireHEP](https://inspirehep.net/literature/1125124)]
-
+    *  ["Colliders or bust"](https://arxiv.org/abs/2204.11807)
+    *  [PERLE - ERL Test Facility at Orsay](https://inspirehep.net/literature/2135265) [[DOI](https://doi.org/10.21468/SciPostPhysProc.8.013)]
+    *  [Electron Accelerator Lattice Design for LHeC with Permanent Magnets](https://inspirehep.net/literature/2137886) [[DOI](https://doi.org/10.18429/JACoW-IPAC2022-WEOXGD2)]
+    
 
 *  Related Experiments
     *  EIC
@@ -91,6 +129,7 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
         * [VHEeP: A very high energy electron–proton collider](https://arxiv.org/abs/1606.00783)[[DOI](https://doi.org/10.1140/epjc/s10052-016-4316-1)]
         * [Review of Muon-Proton Collider Proposals: Main Parameters](https://arxiv.org/abs/2206.00037)
         * [Physics potential of a muon-proton collider](https://arxiv.org/abs/2101.10476)
+        * [The Potential of a TeV-Scale Muon-Ion Collider](The Potential of a TeV-Scale Muon-Ion Collider)
 
 *  Classical DIS papers
     * []() [[DOI]()]
