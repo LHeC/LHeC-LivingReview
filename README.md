@@ -14,7 +14,7 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
     * [A Large Hadron Electron Collider at CERN: Report on the Physics and Design Concepts for Machine and Detector](https://arxiv.org/abs/1206.2913) [[DOI](https://doi.org/10.1088/0954-3899/39/7/075001)]
     * [FCC Physics Opportunities : Future Circular Collider Conceptual Design Report Volume 1](https://cds.cern.ch/record/2651294) [[DOI](https://doi.org/10.1140/epjc/s10052-019-6904-3)]
     * [FCC-hh: The Hadron Collider : Future Circular Collider Conceptual Design Report Volume 3](https://cds.cern.ch/record/2651300) [[DOI](http://dx.doi.org/10.1140/epjst/e2019-900087-0)]
-    * [PERLE. Powerful energy recovery linac for experiments. Conceptual design report](https://arxiv.org/abs/1705.08783)[[DOI](https://doi.org/10.1088/1361-6471/aaa171)]
+    * [PERLE. Powerful energy recovery linac for experiments. Conceptual design report](https://arxiv.org/abs/1705.08783) [[DOI](https://doi.org/10.1088/1361-6471/aaa171)]
     
 *   Reports with Significant Relevance for LHeC (FCC-eh, LEPxLHC)
     * [ECFA Large Hadron Collider Workshop (1990, Aachen, Germany) v1](http://cds.cern.ch/record/207890)
@@ -184,7 +184,7 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
     *  [Optimisation of the PERLE Injector](https://inspirehep.net/literature/1822559) [[DOI](https://doi.org/10.18429/JACoW-ERL2019-WEPNEC19)]
 
   * Other
-    * [Testable hypotheses by Isaac Newton on particle physics(https://inspirehep.net/literature/1839187)][[DOI](https://doi.org/10.4006/0836-1398-33.2.149)]
+    * [Testable hypotheses by Isaac Newton on particle physics](https://inspirehep.net/literature/1839187) [[DOI](https://doi.org/10.4006/0836-1398-33.2.149)]
 
 
 *   Theses
