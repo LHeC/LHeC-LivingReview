@@ -79,7 +79,6 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
         * [Coherent and incoherent deeply virtual Compton scattering in electron–ion collisions at the EIC and LHeC](https://inspirehep.net/literature/2028074) [[DOI](https://doi.org/10.1140/epja/s10050-022-00664-3)]
         * [Study of diffractive gluon jet production in electron‐ion collisions](https://inspirehep.net/literature/1853913) [[DOI](https://doi.org/10.1002/asna.202113948)]
         * [Exclusive dilepton production via timelike Compton scattering in heavy ion collisions](https://arxiv.org/abs/2101.08338) [[DOI](https://doi.org/10.1103/PhysRevD.103.054009)]
-        * [Sensitivity analysis for the anomalous W+W−γW^+W^-\gamma W+W−γ couplings at the LHeC and the FCC-he](https://arxiv.org/abs/2104.00477) [[DOI](https://doi.org/10.1140/epjp/s13360-021-02224-y)]
         * []() [[DOI]()]
         * []() [[DOI]()]
         * []() [[DOI]()]
@@ -87,6 +86,7 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
     *  Electroweak Physics
         * [Precision electroweak measurements at the LHeC and the FCC-eh](https://arxiv.org/abs/2203.06237) [[DOI](https://doi.org/10.22323/1.398.0485)]
         * [Exclusive Z0 production in ep and eA collisions at high energies](https://arxiv.org/abs/2204.10350) [[DOI](https://doi.org/10.1103/PhysRevD.106.014002)]
+        * [Sensitivity analysis for the anomalous W+W−γW^+W^-\gamma W+W−γ couplings at the LHeC and the FCC-he](https://arxiv.org/abs/2104.00477) [[DOI](https://doi.org/10.1140/epjp/s13360-021-02224-y)]
         * [New electroweak challenges and opportunities at the LHeC](https://arxiv.org/abs/2109.08001) [[DOI](https://doi.org/10.22323/1.398.0486)]
         * []() [[DOI]()]
 
