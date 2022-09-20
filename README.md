@@ -14,14 +14,14 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
     * [FCC-hh: The Hadron Collider : Future Circular Collider Conceptual Design Report Volume 3](https://cds.cern.ch/record/2651300) [[DOI](http://dx.doi.org/10.1140/epjst/e2019-900087-0)]
     * [PERLE. Powerful energy recovery linac for experiments. Conceptual design report](https://arxiv.org/abs/1705.08783)[[DOI](https://doi.org/10.1088/1361-6471/aaa171)]
     
-*   Reports with significant relevance for LHeC (FCC-eh, LEPxLHC)
+*   Reports with Significant Relevance for LHeC (FCC-eh, LEPxLHC)
     * [ECFA Large Hadron Collider Workshop (1990, Aachen, Germany) v1](http://cds.cern.ch/record/207890)
     * [ECFA Large Hadron Collider Workshop (1990, Aachen, Germany) v2](https://cds.cern.ch/record/215298)
     * [ECFA Large Hadron Collider Workshop (1990, Aachen, Germany) v3](https://cds.cern.ch/record/215299)
     * [European Strategy for Particle Physics -- Accelerator R&D Roadmap](https://arxiv.org/abs/2201.07895) [[DOI](https://doi.org/10.23731/CYRM-2022-001)]
 
 
-*  Important reports and Reviews on related subjects
+*  Important Reports and Reviews on Related Subjects
     * [The Large Hadron Electron Collider](The Large Hadron Electron Collider) [[DOI](The Large Hadron Electron Collider)]
     * [On the Relation of the LHeC and the LHC](https://arxiv.org/abs/1211.5102) [[InspireHEP](https://inspirehep.net/literature/1203459)]
     * [A Large Hadron Electron Collider at CERN](https://arxiv.org/abs/1211.4831) [[InspireHEP](https://inspirehep.net/literature/1203309)]
@@ -36,17 +36,19 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
 
 
 *  Physics
-    *  Hard QCD, hadronic final state, heavy-quarks (c,s,b) and inclusive DIS
+    *  Hard QCD, Hadronic Final State, Heavy-quarks (c,s,b) and Inclusive DIS
         * []() [[DOI]()]
     
     *  Small-x, diffraction
         * []() [[DOI]()]
 
-    *  Higgs physics
+    *  Higgs Physics
     
-    *  Electroweak physics
+    *  Heavy-Ion and Nuclear Physics
+    
+    *  Electroweak Physics
 
-    *  Top-quark physics
+    *  Top-quark Physics
 
     *  Beyond the Standard Model (BSM)
 
@@ -68,7 +70,7 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
     *  [Update on LHeC Ring-Ring Optics](https://accelconf.web.cern.ch/IPAC2012/papers/TUPPC037.PDF) [[InspireHEP](https://inspirehep.net/literature/1125124)]
 
 
-*  Related experiments
+*  Related Experiments
     *  EIC
         * [Electron Ion Collider: The Next QCD Frontier - Understanding the glue that binds us all](https://arxiv.org/abs/1212.1701) [[DOI](https://doi.org/10.1140/epja/i2016-16268-9)]
         * [The Electron-Ion Collider: Assessing the Energy Dependence of Key Measurements](https://arxiv.org/abs/1708.01527) [[DOI](https://doi.org/10.1088/1361-6633/aaf216)]
