@@ -31,7 +31,7 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
     * [An experiment for electron-hadron scattering at the LHC](https://arxiv.org/abs/2201.02436) [[DOI](https://doi.org/10.1140/epjc/s10052-021-09967-z)]
     * [Exploring the energy frontier with deep inelastic scattering at the LHC](https://inspirehep.net/literature/1763593) [[DOI](https://doi.org/10.1088/1361-6471/ab4698)]
     * [Energy frontier DIS at CERN: the LHeC and the FCC-eh, PERLE](https://inspirehep.net/literature/1705571) [[DOI](https://doi.org/10.22323/1.316.0183)]
-    * The LHeC as a Higgs Boson Factory [[InspireHEP](https://inspirehep.net/literature/1338636)]
+    * [The LHeC as a Higgs Boson Factory](https://inspirehep.net/files/0fc785d02b0456cd73d532bf4231339f) [[InspireHEP](https://inspirehep.net/literature/1338636)]
     * [The LHeC Project Development Beyond 2012](https://inspirehep.net/literature/1124896)
     * [The Large Hadron-Electron Collider (LHeC) at the LHC](https://inspirehep.net/files/7862ed6a738e4b8d3e069d86242a57f7) [[InspireHEP](https://inspirehep.net/literature/1379316)]
     * [Deep inelastic electron-nucleon scattering at the LHC](https://arxiv.org/abs/hep-ex/0603016) [[DOI](https://doi.org/10.1088/1748-0221/1/10/P10001)]
