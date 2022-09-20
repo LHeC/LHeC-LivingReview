@@ -29,7 +29,7 @@ The purpose of this project is to collect all references that are relevant for t
     * The LHeC as a Higgs Boson Factory [[InspireHEP](https://inspirehep.net/literature/1338636)]
     * [The LHeC Project Development Beyond 2012](https://inspirehep.net/literature/1124896)
     * [The Large Hadron-Electron Collider (LHeC) at the LHC](https://inspirehep.net/files/7862ed6a738e4b8d3e069d86242a57f7) [[InspireHEP](https://inspirehep.net/literature/1379316)]
-    * []() [[DOI]()]
+    * [Deep inelastic electron-nucleon scattering at the LHC](https://arxiv.org/abs/hep-ex/0603016) [[DOI](https://doi.org/10.1088/1748-0221/1/10/P10001)]
 
 
 *  Physics
@@ -75,13 +75,18 @@ The purpose of this project is to collect all references that are relevant for t
        
     *  HERA
     
+    *  THERA
+        * [TESLA: The superconducting electron positron linear collider with an integrated X-ray laser laboratory. Technical design report. Pt. 6: Appendices. Chapter 2: THERA: Electron proton scattering at s**(1/2) approximately 1-TeV](https://inspirehep.net/files/5ab7e09d62ec54756d57b786a3c95701) [[InspireHEP](https://inspirehep.net/literature/554667)]
+        * THERA review [[InspireHEP](https://inspirehep.net/literature/559377)]
+        * THERA: Electron proton scattering at s**(1/2) = 1-TeV [[InspireHEP](https://inspirehep.net/literature/542860)]
+    
     *  Others
         * [VHEeP: A very high energy electron–proton collider](https://arxiv.org/abs/1606.00783)[[DOI](https://doi.org/10.1140/epjc/s10052-016-4316-1)]
         * [Review of Muon-Proton Collider Proposals: Main Parameters](https://arxiv.org/abs/2206.00037)
         * [Physics potential of a muon-proton collider](https://arxiv.org/abs/2101.10476)
 
 *  Classical DIS papers
-    * []()[[DOI]()]
-    * []()[[DOI]()]
-    * []()[[DOI]()]
+    * []() [[DOI]()]
+    * []() [[DOI]()]
+    * []() [[DOI]()]
 
