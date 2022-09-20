@@ -68,7 +68,12 @@ The purpose of this project is to collect all references that are relevant for t
 *  Related experiments
     *  EIC
         * [Electron Ion Collider: The Next QCD Frontier : Understanding the glue that binds us all](https://arxiv.org/abs/1212.1701)[[DOI](https://doi.org/10.1140/epja/i2016-16268-9)]
-    
+        * [Electron Ion Collider: The Next QCD Frontier - Understanding the glue that binds us all](https://arxiv.org/abs/1212.1701) [[DOI](https://doi.org/10.1140/epja/i2016-16268-9)]
+        * [The Electron-Ion Collider: Assessing the Energy Dependence of Key Measurements](https://arxiv.org/abs/1708.01527) [[DOI](https://doi.org/10.1088/1361-6633/aaf216)]
+       * [An Assessment of U.S.-Based Electron-Ion Collider Science](https://nap.nationalacademies.org/catalog/25171/an-assessment-of-us-based-electron-ion-collider-science) [[DOI](https://doi.org/10.17226/25171)]
+       * Electron Ion Collider Conceptual Design Report 2021 [[DOI](https://doi.org/10.2172/1765663)]
+       * [Science Requirements and Detector Concepts for the Electron-Ion Collider: EIC Yellow Report](https://arxiv.org/abs/2103.05419) [[DOI](https://doi.org/10.1016/j.nuclphysa.2022.122447)]
+       
     *  HERA
     
     *  Others
