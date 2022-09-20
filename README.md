@@ -51,7 +51,7 @@ The purpose of this project is to collect all references that are relevant for t
 
 
 *  Accelerator and PERLE
-    *  [PERLE - Lattice Design and Beam Dynamics Studies](https://inspirehep.net/literature/1690024) [[DOI](PERLE - Lattice Design and Beam Dynamics Studies)]
+    *  [PERLE - Lattice Design and Beam Dynamics Studies](https://inspirehep.net/literature/1690024) [[DOI](https://doi.org/10.18429/JACoW-IPAC2018-THPMK105)]
     *  [PERLE. Powerful energy recovery linac for experiments. Conceptual design report](https://arxiv.org/abs/1705.08783) [[DOI](https://doi.org/10.1088/1361-6471/aaa171)]
     *  [Development of an ERL Based TeV Energy ep and eA Collider at CERN](http://cds.cern.ch/record/2153752) [[InspireHEP](https://inspirehep.net/literature/1436542)]
     *  [Plans for an ERL Test Facility at CERN](http://cds.cern.ch/record/2025957)[[InspireHEP](https://inspirehep.net/literature/1363550)]
