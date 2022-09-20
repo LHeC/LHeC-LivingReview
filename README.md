@@ -4,6 +4,8 @@ The Large Hadron electron Collider (LHeC) is a propsed electron-proton and elect
 
 The purpose of this project is to collect all references that are relevant for the LHeC. It will then serve as useful knowledge base for interested people. A small number of categories is chosen to sort the papers. In some cases, it may be possible that an article is listed in multiple categories.
 
+This review is hosted on [github.com/LHeC/LHeC-LivingReview](https://github.com/LHeC/LHeC-LivingReview) and visible also on [lhec.github.io/LHeC-LivingReview](https://lhec.github.io/LHeC-LivingReview)
+
 The idea of such a *living review* is inherited from the Inter-Experimental LHC Machine Learning Working Group's [HEPML-LivingReview
 Public](https://github.com/iml-wg/HEPML-LivingReview)
 
