@@ -79,7 +79,7 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
         * [Exclusive vector meson production in electron – ion collisions at the EIC, LHeC and FCC–eh](https://arxiv.org/abs/2008.03145) [[DOI](https://doi.org/10.1016/j.nuclphysa.2020.122055)]
         * [Investigating the diffractive gluon jet production in lepton-ion collisions](https://arxiv.org/abs/2003.13882) [[DOI](https://doi.org/10.1103/PhysRevC.102.034903)]
         * [Dissociative production of vector mesons as a new tool to study gluon saturation at electron-ion colliders](https://inspirehep.net/literature/1798149) [[DOI](https://doi.org/10.22323/1.374.0025)]
-        * []() [[DOI]()]
+        * [Diffractive jet production in eletron-ion collisions](https://inspirehep.net/files/b3aa460e64115fbc72c9d166a08bf125) [[InspreHEP](https://inspirehep.net/literature/1826937)]
         * []() [[DOI]()]
         * []() [[DOI]()]
         * []() [[DOI]()]
