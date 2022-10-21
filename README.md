@@ -190,7 +190,7 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
         * [Analysis of the anomalous quartic WWWW couplings at the LHeC and the FCC-he](https://arxiv.org/abs/1904.06990) [[DOI](https://doi.org/10.1140/epjp/s13360-021-01775-4)]
         * [Single production of vectorlike top partner decaying to Wb in the leptonic channel at ep colliders in the littlest Higgs model with T-parity](https://arxiv.org/abs/1904.07434) [[DOI](https://doi.org/10.1103/PhysRevD.99.095002)]
 
-*   Machine
+    *  Machine
         * [An analytic approach to emittance growth from the beam-beam effect with applications to the LHeC](https://doi.org/10.1088/1742-6596/1350/1/012135) [[DOI](https://doi.org/10.1088/1742-6596/1350/1/012135)]
         * [Free electron laser driven by a high-energy high-current energy-recovery linac](https://inspirehep.net/literature/1745142) [[DOI](https://doi.org/10.18429/JACoW-IPAC2019-TUPRB076)]
         * [Multi Pass Energy Recovery Linac Design With a Single Fixed Field Magnet Return Line](https://inspirehep.net/literature/1736174) [[DOI](https://doi.org/10.18429/JACoW-ICAP2018-TUPAF09)]
