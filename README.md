@@ -1,7 +1,3 @@
-
-Processing convert_md.cxx...
-
-Processing convert_md.cxx...
 #  **A Living Review of Articles on the LHeC**
 
 The Large Hadron electron Collider (LHeC) is a propsed electron-proton and electron-ion collider experiment at CERN to be operated in the 2030s. In this living review, relevant papers on the accelerator ('the machine'), the detector, experimental techniques, and formal reports are collected, and of course all relevant papers on physics. The collection also covers physics and technical articles on the FCC-eh and other future high-energy electron-hadron collider experiments.
