@@ -26,9 +26,9 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
 
 
 *  Important Reports and Reviews on Related Subjects
-       * O. Bruening, et al., "The Large Hadron Electron Collider", Mod.Phys.Lett.A 28 (2013) 16, 1330011, [[InspireHEP](https://inspirehep.net/literature/1232505)] [[DOI](https://doi.org/10.1142/S0217732313300115)] [[arXiv:1305.2090](https://arxiv.org/abs/1305.2090)].
-       * LHeC Study Group, J.L. Abelleira Fernandez, et al., "On the Relation of the LHeC and the LHC", [[InspireHEP](https://inspirehep.net/literature/1203459)] [[arXiv:1211.5102](https://arxiv.org/abs/1211.5102)].
-       * J.L. Abelleira Fernandez, et al., "A Large Hadron Electron Collider at CERN", [[InspireHEP](https://inspirehep.net/literature/1203309)] [[arXiv:1211.4831](https://arxiv.org/abs/1211.4831)].
+    * O. Bruening, et al., "The Large Hadron Electron Collider", Mod.Phys.Lett.A 28 (2013) 16, 1330011, [[InspireHEP](https://inspirehep.net/literature/1232505)] [[DOI](https://doi.org/10.1142/S0217732313300115)] [[arXiv:1305.2090](https://arxiv.org/abs/1305.2090)].
+    * LHeC Study Group, J.L. Abelleira Fernandez, et al., "On the Relation of the LHeC and the LHC", [[InspireHEP](https://inspirehep.net/literature/1203459)] [[arXiv:1211.5102](https://arxiv.org/abs/1211.5102)].
+    * J.L. Abelleira Fernandez, et al., "A Large Hadron Electron Collider at CERN", [[InspireHEP](https://inspirehep.net/literature/1203309)] [[arXiv:1211.4831](https://arxiv.org/abs/1211.4831)].
     * [The Development of Energy-Recovery Linacs](https://arxiv.org/abs/2207.02095) [[InspireHEP](https://inspirehep.net/literature/2106268)]
     * K.D. J. André, et al., "An experiment for electron-hadron scattering at the LHC", Eur.Phys.J.C 82 (2022) 1, 40, [[InspireHEP](https://inspirehep.net/literature/2005567)] [[DOI](https://doi.org/10.1140/epjc/s10052-021-09967-z)] [[arXiv:2201.02436](https://arxiv.org/abs/2201.02436)].
     * LHeC and PERLE Collaborations, O. Brüning, et al., "Exploring the energy frontier with deep inelastic scattering at the LHC", J.Phys.G 46 (2019) 12, 123001, [[InspireHEP](https://inspirehep.net/literature/1763593)] [[DOI](https://doi.org/10.1088/1361-6471/ab4698)].
