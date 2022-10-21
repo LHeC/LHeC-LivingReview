@@ -1,4 +1,4 @@
-#  **A Living Review of Articles Relevant for the LHeC**
+#  **A Living Review of Articles on the LHeC**
 
 The Large Hadron electron Collider (LHeC) is a propsed electron-proton and electron-ion collider experiment at CERN to be operated in the 2030s. In this living review, relevant papers on the accelerator ('the machine'), the detector, experimental techniques, and formal reports are collected, and of course all relevant papers on physics. The collection also covers physics and technical articles on the FCC-eh and other future high-energy electron-hadron collider experiments.
 
@@ -57,6 +57,18 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
         * [DIS coefficient functions at four loops in QCD and beyond](https://arxiv.org/abs/2208.11067)
         * [An evaluation of the proton structure functions F2F_2F2​ and FLF_LFL​ at small xxx](https://arxiv.org/abs/2010.15357) [[DOI](https://doi.org/10.1016/j.physletb.2021.136274)]
         * [Next-to-leading order QCD predictions for dijet photoproduction in lepton-nucleus scattering at the future EIC and at possible LHeC, HE-LHeC, and FCC facilities](https://arxiv.org/abs/2003.09129) [[DOI](https://doi.org/10.1103/PhysRevC.102.065201)]
+        * [The study of the gluon distribution function and reduced cross section behavior using the proton structure function](https://arxiv.org/abs/1911.11635) [[DOI](https://doi.org/10.1016/j.nuclphysa.2020.122062)]
+        * [Probing the linearly polarized gluons in unpolarized proton with heavy-quark pair production](https://arxiv.org/abs/1911.09742) [[DOI](https://doi.org/10.1088/1742-6596/1435/1/012011)]
+        * [Longitudinal structure function from the parton parameterization](https://arxiv.org/abs/1911.06954) [[DOI](https://doi.org/10.1140/epja/s10050-020-00267-w)]
+        * [The Partonic Content of Nucleons and Nuclei](https://arxiv.org/abs/1910.03408) [[DOI](https://doi.org/10.1093/acrefore/9780190871994.013.71)]
+        * [Recent QCD results from the xFitter project - Probing the strange content of the proton with charmproduction in charged current at LHeC](https://arxiv.org/abs/1909.00451) [[DOI](https://doi.org/10.22323/1.352.0025)]
+        * [Towards Ultimate Parton Distributions from p+p and e+p Collisions](https://arxiv.org/abs/1907.04802) [[DOI](https://doi.org/10.22323/1.352.0245)]
+        * [Collinear PDFs in the era of HL-LHC, LHeC, and EIC](https://arxiv.org/abs/1907.00988) [[DOI](https://doi.org/10.22323/1.352.0247)]
+        * [Probing the strange content of the proton with charm production in charged current at LHeC](https://arxiv.org/abs/1907.01014) [[DOI](https://doi.org/10.1140/epjc/s10052-019-7362-7)]
+        * [Probing Proton Structure at the Large Hadron electron Collider](https://arxiv.org/abs/1906.10127) [[DOI](https://doi.org/10.21468/SciPostPhys.7.4.051)]
+        * [The exponent of the longitudinal structure function $F_{L}$ at low $x$](https://arxiv.org/abs/1903.04316) [[DOI](https://doi.org/10.1140/epjp/s13360-019-00088-x)]
+        * [Photoproduction of charged final states in ultraperipheral collisions and electroproduction at an electron-ion collider](https://arxiv.org/abs/1903.02680) [[DOI](https://doi.org/10.1103/PhysRevC.100.024620)]
+        * [Constraints on Parton Distribution Functions Imposed by Hadronic Experiments](https://inspirehep.net/literature/1793329) [[InspireHEP](https://inspirehep.net/literature/1793329)]
         
     
     *  Small-x, Diffraction, exclusive processes and further QCD properties
@@ -80,9 +92,12 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
         * [Investigating the diffractive gluon jet production in lepton-ion collisions](https://arxiv.org/abs/2003.13882) [[DOI](https://doi.org/10.1103/PhysRevC.102.034903)]
         * [Dissociative production of vector mesons as a new tool to study gluon saturation at electron-ion colliders](https://inspirehep.net/literature/1798149) [[DOI](https://doi.org/10.22323/1.374.0025)]
         * [Diffractive jet production in eletron-ion collisions](https://inspirehep.net/files/b3aa460e64115fbc72c9d166a08bf125) [[InspreHEP](https://inspirehep.net/literature/1826937)]
-        * []() [[DOI]()]
-        * []() [[DOI]()]
-        * []() [[DOI]()]
+        * [Color dipole picture and extracting the ratio of structure functions at small $x$](https://arxiv.org/abs/1911.13180) [[DOI](https://doi.org/10.1103/PhysRevC.101.045202)]
+        * [Collinear PDFs in the era of HL-LHC, LHeC, and EIC](https://arxiv.org/abs/1907.00988) [[DOI](https://doi.org/10.22323/1.352.0247)]
+        * [Determination of diffractive parton densities at the LHeC and the FCC-eh](https://inspirehep.net/literature/1756476) [[DOI](https://doi.org/10.22323/1.352.0257)]
+        * [Photoproduction of charged final states in ultraperipheral collisions and electroproduction at an electron-ion collider](https://arxiv.org/abs/1903.02680) [[DOI](https://doi.org/10.1103/PhysRevC.100.024620)]
+        * [Inclusive diffraction in future electron-proton and electron-ion colliders](https://arxiv.org/abs/1901.09076) [[DOI](https://doi.org/10.1103/PhysRevD.100.074022)]
+        * [Vector Meson Electro-production Within the Energy-dependent Hot-spot Model](https://inspirehep.net/literature/1764201) [[InspireHEP](https://inspirehep.net/literature/1793329)]
 
     *  Higgs Physics
         * [Electroweak corrections to Higgs boson production at the future LHeC](https://arxiv.org/abs/2207.14515) 
@@ -90,7 +105,12 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
         * [Studies of nonresonant Higgs pair production at electron-proton colliders](https://arxiv.org/abs/2102.12507) [[DOI](https://doi.org/10.1016/j.physletb.2021.136417)]
         * [Measuring CP nature of hττˉh\tau {{\bar{\tau }}}hττˉ coupling at e−pe^-pe−p collider](https://arxiv.org/abs/2109.00329) [[DOI](https://doi.org/10.1140/epjc/s10052-022-10445-3)]
         * [Search for the H→W+W−H \rightarrow \text{W}^+ \text{W}^-H→W+W− Process at the LHeC Experiment](https://arxiv.org/abs/2002.00926) [[DOI](https://doi.org/10.5506/APhysPolB.51.1811)]
-        * []() [[DOI]()]
+        * [Probing the trilinear Higgs boson self-coupling via single Higgs production at the LHeC](https://arxiv.org/abs/1910.09424) [[DOI](https://doi.org/10.1103/PhysRevD.101.075036)]
+        * [Light charged Higgs boson production at futures $ep$ colliders](https://arxiv.org/abs/1908.09405) [[DOI](https://doi.org/10.22323/1.352.0094)]
+        * [Photo-production of the Higgs boson at the LHeC](https://arxiv.org/abs/1906.08969) [[DOI](https://doi.org/10.1016/j.nuclphysb.2020.115134)]
+        * [Probing the charm Yukawa coupling at future $e^{-}p$ and $e^{+}e^{-}$ colliders](https://arxiv.org/abs/1905.09457) [[DOI](https://doi.org/10.1103/PhysRevD.100.053008)]
+        * [Exotic Higgs decays (and Long-Lived Particles) at future colliders](https://inspirehep.net/literature/1737392) [[DOI](https://doi.org/10.23731/CYRM-2020-003.241)]
+        * [Higgs Boson Studies at Future Particle Colliders](https://arxiv.org/abs/1905.03764) [[DOI](https://doi.org/10.1007/JHEP01(2020)139)]
        
     *  Heavy-Ion and Nuclear Physics
         * [Coherent and incoherent deeply virtual Compton scattering in electron–ion collisions at the EIC and LHeC](https://inspirehep.net/literature/2028074) [[DOI](https://doi.org/10.1140/epja/s10050-022-00664-3)]
@@ -101,6 +121,7 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
         * [QCD traveling waves phenomenology revisited](https://arxiv.org/abs/2006.08423) [[DOI](https://doi.org/10.1103/PhysRevD.103.016013)]
         * [Nuclear shadowing in DIS at electron-ion colliders](https://arxiv.org/abs/2003.04156) [[DOI](https://doi.org/10.1140/epjp/s13360-020-00498-2)]
         * [Probing Nuclear Structure with Future Colliders](https://arxiv.org/abs/2001.07862) [[DOI](https://doi.org/10.1142/9789811214950_0049)]
+        * [Resolving the Partonic Structure of Nuclei through Energy-Frontier eA Scattering](https://inspirehep.net/literature/1731375) [[DOI](https://doi.org/10.22323/1.345.0123)]
     
     *  Electroweak Physics
         * [Precision electroweak measurements at the LHeC and the FCC-eh](https://arxiv.org/abs/2203.06237) [[DOI](https://doi.org/10.22323/1.398.0485)]
@@ -112,7 +133,13 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
         * [Electroweak physics in inclusive deep inelastic scattering at the LHeC](https://arxiv.org/abs/2007.11799) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8367-y)]
         * [Study on the anomalous quartic W+W−γγW^+W^-\gamma \gamma W+W−γγ couplings of electroweak bosons in e−pe^-pe−p collisions at the LHeC and the FCC-he](https://arxiv.org/abs/2005.11509) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08991-3)]
         * [Sensitivity physics expected to the measurement of the quartic WWγγWW\gamma\gammaWWγγ couplings at the LHeC and the FCC-he](https://arxiv.org/abs/2003.06669) [[DOI](https://doi.org/10.1088/1361-6471/ab9908)]
-        * 
+        * [Top and Electroweak Physics at the LHeC and the FCC-eh]( Top and Electroweak Physics at the LHeC and the FCC-eh ) [[DOI]( Top and Electroweak Physics at the LHeC and the FCC-eh )]
+        * [Anomalous quartic $W^+W^-\gamma \gamma $ couplings in $e^-p$ collisions at the LHeC and the FCC-he](https://arxiv.org/abs/1911.03993) [[DOI](https://doi.org/10.1140/epjp/s13360-020-00344-5)]
+        * [Bounds on the non-standard $W^+W^-\gamma$ couplings at the LHeC and the FCC-he](https://arxiv.org/abs/1910.06747) [[DOI](https://doi.org/10.1016/j.physletb.2020.135661)]
+        * [Probing model-independent limits on $W^+W^-\gamma$ triple gauge boson vertex at the LHeC and the FCC-he](https://arxiv.org/abs/1910.02307) [[DOI](https://doi.org/10.1088/1361-6471/ab7ff9)]
+        * [Top FCNC interactions through dimension six four-fermion operators at the electron proton collider](https://arxiv.org/abs/1906.04884) [[DOI](https://doi.org/10.1103/PhysRevD.100.015011)]
+        * [Analysis of the anomalous quartic WWWW couplings at the LHeC and the FCC-he](https://arxiv.org/abs/1904.06990) [[DOI](https://doi.org/10.1140/epjp/s13360-021-01775-4)]
+
 
 
     *  Top-quark Physics
@@ -147,9 +174,29 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
         * [Displaced Vertex and Disappearing Track Signatures in type-III Seesaw](https://arxiv.org/abs/1911.09037) 
         * [Probing Z′Z^\primeZ′ mediated charged lepton flavor violation with taus at the LHeC](https://arxiv.org/abs/2003.11091) [[DOI](https://doi.org/10.1016/j.physletb.2020.135796)]
         * [Sensitivity physics expected to the measurement of the quartic WWγγWW\gamma\gammaWWγγ couplings at the LHeC and the FCC-he](https://arxiv.org/abs/2003.06669) [[DOI](https://doi.org/10.1088/1361-6471/ab9908)]
-        * []() [[DOI]()]
-        * []() [[DOI]()]
-        * []() [[DOI]()]
+        * [Signatures of $\tilde{R}_2$ class of Leptoquarks at the upcoming $ep$ colliders](https://arxiv.org/abs/1912.07236) [[DOI](https://arxiv.org/abs/1912.07236)]
+        * [Search for the SUSY electroweak sector at $ep$ colliders](https://arxiv.org/abs/1912.03823) [[DOI](https://arxiv.org/abs/1912.03823)]
+        * [Beyond the Standard Model physics at the LHeC and the FCC-he](https://inspirehep.net/literature/1831163) [[DOI](https://doi.org/10.22323/1.364.0563)]
+        * [Anomalous quartic $W^+W^-\gamma \gamma $ couplings in $e^-p$ collisions at the LHeC and the FCC-he](https://arxiv.org/abs/1911.03993) [[DOI](https://doi.org/10.1140/epjp/s13360-020-00344-5)]
+        * [Bounds on the non-standard $W^+W^-\gamma$ couplings at the LHeC and the FCC-he](https://arxiv.org/abs/1910.06747) [[DOI](https://doi.org/10.1016/j.physletb.2020.135661)]
+        * [Probing model-independent limits on $W^+W^-\gamma$ triple gauge boson vertex at the LHeC and the FCC-he](https://arxiv.org/abs/1910.02307) [[DOI](https://doi.org/10.1088/1361-6471/ab7ff9)]
+        * [Breaking of Lorentz Invariance in Electron-Proton Parity Violation](https://arxiv.org/abs/1909.10627) [[DOI](https://doi.org/10.1103/PhysRevD.100.095011)]
+        * [Searching for Dark Photons at the LHeC and FCC-he]( https://arxiv.org/abs/1909.02312) [[DOI](https://doi.org/10.1103/PhysRevD.101.015020)]
+        * [Light charged Higgs boson production at futures $ep$ colliders](https://arxiv.org/abs/1908.09405) [[DOI](https://doi.org/10.22323/1.352.0094)]
+        * [Lepton-Trijet and Displaced Vertex Searches for Heavy Neutrinos at Future Electron-Proton Colliders](https://arxiv.org/abs/1908.02852) [[DOI](https://doi.org/10.1007/JHEP03(2020)110)]
+        * [Exotic Higgs decays (and Long-Lived Particles) at future colliders](https://inspirehep.net/literature/1737392) [[DOI](https://doi.org/10.23731/CYRM-2020-003.241)]
+        * [The signatures of the new particles $h_2$ and $Z_{\mu\tau}$ at e-p colliders in the $U(1)_{L_\mu-L_\tau}$ model](https://arxiv.org/abs/1905.00627) [[DOI](https://doi.org/10.1140/epjc/s10052-019-7432-x)]
+        * [Searching for axionlike particles at future $ep$ colliders](https://arxiv.org/abs/1904.10657) [[DOI](https://doi.org/10.1103/PhysRevD.100.015020)]
+        * [Analysis of the anomalous quartic WWWW couplings at the LHeC and the FCC-he](https://arxiv.org/abs/1904.06990) [[DOI](https://doi.org/10.1140/epjp/s13360-021-01775-4)]
+        * [Single production of vectorlike top partner decaying to Wb in the leptonic channel at ep colliders in the littlest Higgs model with T-parity](https://arxiv.org/abs/1904.07434) [[DOI](https://doi.org/10.1103/PhysRevD.99.095002)]
+
+Machine
+        * [An analytic approach to emittance growth from the beam-beam effect with applications to the LHeC](https://doi.org/10.1088/1742-6596/1350/1/012135) [[DOI](https://doi.org/10.1088/1742-6596/1350/1/012135)]
+        * [Free electron laser driven by a high-energy high-current energy-recovery linac](https://inspirehep.net/literature/1745142) [[DOI](https://doi.org/10.18429/JACoW-IPAC2019-TUPRB076)]
+        * [Multi Pass Energy Recovery Linac Design With a Single Fixed Field Magnet Return Line](https://inspirehep.net/literature/1736174) [[DOI](https://doi.org/10.18429/JACoW-ICAP2018-TUPAF09)]
+        * [Scenarios for LHC/FCC Based Gamma-Proton Colliders](https://arxiv.org/abs/1903.06202) [[InspireHEP](https://inspirehep.net/literature/1725158)]
+        * [Energy frontier lepton-hadron colliders, vector-like quarks and leptons, preons and so on](https://arxiv.org/abs/1901.00309) [[InspireHEP](https://inspirehep.net/literature/1712036)]
+        * [Beam Losses, Lifetime and Collimator Hierarchy](https://inspirehep.net/literature/2074061) [[InspireHEP](https://inspirehep.net/literature/2074061)]
         * []() [[DOI]()]
         * [Charged Higgs scalar production in single top mode (and other) at future ep colliders in the minimal supersymmetric standard model](https://arxiv.org/abs/hep-ph/9709458) [[DOI](https://doi.org/10.1103/PhysRevD.57.5773)]
         * [Associated slepton - neutralino / chargino production at LEP x CERN LHC](https://arxiv.org/abs/hep-ph/9501377) [[DOI](https://doi.org/10.1103/PhysRevD.52.78)]
@@ -208,15 +255,20 @@ Public](https://github.com/iml-wg/HEPML-LivingReview)
         * THERA review [[InspireHEP](https://inspirehep.net/literature/559377)]
         * THERA: Electron proton scattering at s**(1/2) = 1-TeV [[InspireHEP](https://inspirehep.net/literature/542860)]
     
-    *  Others
+    *  Other eperimental setups
         * [VHEeP: A very high energy electron–proton collider](https://arxiv.org/abs/1606.00783)[[DOI](https://doi.org/10.1140/epjc/s10052-016-4316-1)]
         * [Review of Muon-Proton Collider Proposals: Main Parameters](https://arxiv.org/abs/2206.00037)
         * [Physics potential of a muon-proton collider](https://arxiv.org/abs/2101.10476)
         * [The Potential of a TeV-Scale Muon-Ion Collider](The Potential of a TeV-Scale Muon-Ion Collider)
         * [A muon–ion collider at BNL: The future QCD frontier and path to a new energy frontier of μ+μ− colliders](https://arxiv.org/abs/2107.02073) [[DOI](https://doi.org/10.1016/j.nima.2022.166334)]
+        * [QCD Explorer Based on LHC and CLIC-1](CERN-AB-2004-079) [[CDS](https://cds.cern.ch/record/793439)]
+
+    * Further papers
+        * [Physics Briefing Book: Input for the European Strategy for Particle Physics Update 2020](https://arxiv.org/abs/1910.11775) [[InspireHEP](https://inspirehep.net/literature/1761133)]
+        * [Overview of physics possibilities at future DIS facilities](https://inspirehep.net/literature/1756468) [[DOI](https://doi.org/10.22323/1.352.0237)]
 
 *  Classical DIS papers
     * []() [[DOI]()]
-    * []() [[DOI]()]
-    * []() [[DOI]()]
+
+
 
